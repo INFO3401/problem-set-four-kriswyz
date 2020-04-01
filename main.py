@@ -1,5 +1,6 @@
 from utils import *
 from poll import Poll
+#work with Ziyang Zhang, Kat Anderson
 
 # Use your utils function to load in the data
 df = loadAndCleanData("2020_democratic_presidential_nomination-6730.csv")
